@@ -1,5 +1,3 @@
-# 🔥 UPDATE
-A better example with online demo: https://github.com/laravel-101/multi-domain-laravel-app
 
 # Multi-Domain Laravel App
 An example of multi-domain/subdomain app in Laravel.
